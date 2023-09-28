@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371282984693",
+    "project_id": "smartpatrol-v2",
+    "storage_bucket": "smartpatrol-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371282984693:android:d84268f193b22d72654fbc",
+        "android_client_info": {
+          "package_name": "com.pyakymenko.expotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371282984693-k78inl1sm5a8gbb48hekqko4ed7u22e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIye-LeEmfb2-WbPGl3Bh197MDFB_7p-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371282984693-k78inl1sm5a8gbb48hekqko4ed7u22e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
